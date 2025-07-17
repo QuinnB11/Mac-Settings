@@ -1,7 +1,3 @@
-Absolutely! Here’s the entire `README.md` in one copy-pastable block:
-
----
-
 ```markdown
 # My macOS Configuration
 
